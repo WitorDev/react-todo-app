@@ -2,7 +2,7 @@
 
 A Todo-WEBAPP made using React and Tailwind, which happens to be my first fully working React project. (my-react-app)
 
-### <a href="https://witordev.github.io/react-todo-app/">Have a look</a>
+### <a target="_blank" href="https://witordev.github.io/react-todo-app/">Have a look</a>
 
 ![image](https://github.com/user-attachments/assets/80234b93-0b88-4788-ade1-d5a12010f59a)
 
